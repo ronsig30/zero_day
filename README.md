@@ -1,5 +1,5 @@
-#TOPIC
+# TOPIC
 
-##Sub-topic
--Item 1
--Item 2
+## Sub-topic
+- Item 1
+- Item 2
